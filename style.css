@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.nav li a {
+    color: black;
+    position: sticky !important;
+    top: 0 !important;
+    
+}
+a:hover {
+    background-color: red;
+    
+}
+.tex {
+    position: absolute;
+    right: 70px;
+    top: 400px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.pic-ii {
+    position: absolute;
+    left: 1px;
+    bottom: -300px;
+}
+
+.mages {
+    width: 100%;
+}
+.mag {
+    max-width: 100%;
+    height: auto;
+}
